@@ -3,3 +3,4 @@ v2 kodlarim...
 v3 sefa kodlari
 v4 sefa yeni kodlar
 v5 master..
+v6 master yenii
